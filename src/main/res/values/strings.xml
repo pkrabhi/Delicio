@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Delicio</string>
+    <string name="Slogan">“There is no sincerer love than the love of food.” <br>“Life is uncertain. Eat dessert first.”</br> </string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
